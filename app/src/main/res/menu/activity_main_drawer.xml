@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="Management">
+        <menu>
+            <item
+                android:id="@+id/dash"
+                android:layout_width="wrap_content"
+                android:icon="@drawable/ic_home"
+                android:title="Home" />
+            <item
+                android:id="@+id/manage"
+                android:icon="@drawable/ic_management"
+                android:title="Manage" />
+            <item
+                android:id="@+id/howto"
+                android:icon="@drawable/ic_use"
+                android:title="Guidelines" />\
+        </menu>
+    </item>
+
+    <item android:title="Account Management">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Log Out"></item>
+            <item
+                android:id="@+id/logon"
+                android:icon="@drawable/ic_login"
+                android:title="Login With Google"></item>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/email_us"
+        android:title="@string/help_feedback"></item>
+    <item
+        android:id="@+id/share"
+        android:title="Share"></item>
+</menu>
+
+

@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">SecurityPledge</string>
+    <string name="open">Open</string>
+    <string name="yes">Yes</string>
+    <string name="close">Close</string>
+    <string name="exit">Exit Application</string>
+    <string name="title_activity_tab_contact">tab_contact</string>
+    <string name="action_settings">Settings</string>
+    <string name="negativetext"><u>No, Just Skip to The Interface ></u></string>
+    <string name="user">Asif-Ul Islam Akash</string>
+    <string name="team_lead_the_b_fd_team">Team Lead, The SecurityPledge Team</string>
+    <string name="student_at_baust">Student at BAUST</string>
+    <string name="edit_existing">Edit Existing</string>
+    <string name="add_to_list">Add To List</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="sync">Sync Now</string>
+    <string name="find">Find..</string>
+    <string name="resetdefaults">Are you sure want to reset to defaults?</string>
+    <string name="reesetdefaults">Are you sure want to reset to defaults?</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="eula">This Software under this agreement refers to:
+        (1) The software component is provided to you but limited to the codes,
+        as well as other documents, interfaces, contents, fonts and any other data
+        stored on it that is protected by its developer/licensor.</string>
+    <string name="eula2">YOU CAN CHOOSE TO DEVELOP/MODIFY ANY OF THE INTERFACE OR ANY DATA,
+        CONTENTS IN IT BY EMAILING THE DEVELOPER/OWNER.(2)</string>
+
+    <string-array name="queries">
+        <item>Manage</item>
+        <item>Contacts Management</item>
+        <item>MessageText Management</item>
+        <item>Guidelines</item>
+        <item>Edit Contacts</item>
+        <item><![CDATA[Help & Feedback]]></item>
+        <item></item>
+    </string-array>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable Notifications</string>
+    <string name="pref_description_social_recommendations">Set notification visible and manage resuource precisely</string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+
+    <string name="help_feedback"><![CDATA[Help & Feedback]]></string>
+    <string name="contact_text"><![CDATA[Manage Your Contacts & Sync Online]]></string>
+    <string name="title_activity_settings_admin">Settings</string>
+    <string name="welcome">Welcome To SecurityPledge</string>
+    <string name="guide1">This application is provided for those unfortunate hazardous situation that held in our day to day life. This particular phenomenon was developed to shrink the number of incidents that happens everyday, people to people.</string>
+    <string name="guide2">The functionality of the app can be described as, in an uncertain/hazardous/threatful situation user can interact with this application by pressing "Alert People" in the notification area or directly through the interface. For that circumstance/action of the user, SecurityPledge will fetch
+        the latest location of the user and send it to his/er trusted contacts with a default text that can be managed and customized anytime.</string>
+    <string name="guideusage">• While SecurityPledge asks, if you declined any of the runtime permission(s), some functionality may not work. Make sure go to Phone-Settings and turn the permissions on to let the app behave correctly.</string>
+    <string name="guideu2">• From the navigation drawer, in the \'Manage\' section you can find \'Contact Management\', where upto 4 contact numbers (Locale: Bangladesh) can be saved locally. Whether you are signed in, you may find the sync button in the toolbar in the \'Edit Existing"\' section of \'Contact Management\'. Before pressing it, make sure you added four(4) contact numbers and then the numbers will be uploaded to the Cloud automatically.</string>
+    <string name="guideu3">• Furthermore, in the \'Manage\' interface, you may find \'Message-text Management\', where you set your custom text that to be deliver when you trigger. You need to check the recognizerintent if you want to use the speech recognition that allows you to speak and write on the textfield.</string>
+    <string name="guideu4">• <b>IMPORTANT:</b> In the uncertain/hazardous situation, you can either press \'ALERT\' from the notification area or access the application and let your contacts know you need assistance/help by providing a link to your current locaion.</string>
+    <string name="syncguide">• If you login and authenticated using your google account, then first, you may sync your contacts from the \'Contact Management\' toolbar section. Else, you can\'t upload it to our cloud and any change made to your app may/may not keep your contact numbers offline consequently. You must have four contacts to upload on the cloud</string>
+    <string name="syncguide2">• Later, you can now access them(if authenticated) from the welcome screen toolbar above from any device. You\'re educated now, give it a GO!</string>
+
+
+</resources>
